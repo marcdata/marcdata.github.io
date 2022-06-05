@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "post-one"
+title: post-one
 date: 2022-06-05 12:00:00 -0500
 categories: CATEGORY-1 CATEGORY-2
 permalink: /post-infinity/
