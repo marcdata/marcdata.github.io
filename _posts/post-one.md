@@ -9,3 +9,5 @@ permalink: /post-infinity/
 # This is a post
 
 We are just testing to see if this page shows up correctly.
+
+Lazy fox. 
