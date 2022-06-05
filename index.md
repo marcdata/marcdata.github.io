@@ -4,6 +4,24 @@ You can use the [editor on GitHub](https://github.com/marcdata/marcdata.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Test website
+How does this do for a simple website? 
+*Answer:* let's find out. 
+
+_Quick_ brown fox jumped over lazy *river*.
+- one 
+- two 
+- buckle my shoe
+
+# A main section 
+Some summary.
+
+## A section 
+Some content.
+
+### A subsection 
+More content. 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
