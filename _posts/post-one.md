@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FIRST POST"
+title: "post-one"
 date: 2022-06-05 12:00:00 -0000
 categories: CATEGORY-1 CATEGORY-2
 ---
