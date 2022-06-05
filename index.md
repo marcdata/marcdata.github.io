@@ -22,6 +22,10 @@ Some content.
 ### A subsection 
 More content. 
 
+Links: 
+[Page 2](https://marcdata.github.io/page-2/)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
